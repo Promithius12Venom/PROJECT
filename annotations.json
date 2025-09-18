@@ -1,0 +1,18 @@
+[
+  {
+    "image": "image1.jpg",
+    "labels": {
+      "blur": 1,
+      "dark": 0
+    },
+    "unrecognizable": 0
+  },
+  {
+    "image": "image2.jpg",
+    "labels": {
+      "blur": 0,
+      "dark": 1
+    },
+    "unrecognizable": 1
+  }
+]
